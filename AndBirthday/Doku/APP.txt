@@ -1,0 +1,7 @@
+-täglich neue Msg (abhängig von Uhrzeit)
+-Button für Nachricht
+-SQL DB
+-PHP komm.
+-Update checker
+-Update downoad
+-
